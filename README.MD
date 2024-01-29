@@ -25,7 +25,7 @@ The backend of the Todo App is built using Node.js and Express.js. It provides t
 
 5. Start the server:
    ```bash
-   node Index.js
+   node index.js
 
 The backend server will start running on http://localhost:3001.
   
@@ -48,7 +48,7 @@ The frontend of the Todo App is built using React.js. It provides a user interfa
    ```bash
    npm run dev
 
-http://localhost:5173 (by default what vite does)
+http://localhost:5173 (by default what vite does , make sure you have vite installed!)
 
 ### Usage
 Once both the backend and frontend servers are running, you can access the Todo App by opening your web browser and navigating to http://localhost:5173. You can create new todo items, mark them as completed, and update their details
